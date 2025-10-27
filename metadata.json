@@ -1,0 +1,7 @@
+{
+  "name": "Glamour AI Studio",
+  "description": "An AI-powered hairstylist and makeup artist application. Upload your photo to virtually try on new hairstyles and makeup looks, get inspiration from an AI-generated gallery, and chat with a real-time AI assistant for style advice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
